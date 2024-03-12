@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple SQLite App</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="simpan">Simpan</string>
+</resources>
